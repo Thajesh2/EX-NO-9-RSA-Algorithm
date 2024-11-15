@@ -37,7 +37,7 @@ int gcd(int a, int h) {
 }
 
 int main() {
-    printf("LOKESH N - 212222100023\n");
+    printf("THAJESH K - 212223230229\n");
     // Two prime numbers
     int p = 3;
     int q = 7;
