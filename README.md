@@ -79,8 +79,8 @@ int main() {
 ```
 
 ## OUTPUT:
-![Screenshot 2024-10-19 091435](https://github.com/user-attachments/assets/fd927bc5-68ae-402e-ab11-2a8346625b4e)
 
+![Screenshot 2024-11-15 133553](https://github.com/user-attachments/assets/d5d2ebf9-9613-4700-a06e-9a18cd074466)
 
 ## RESULT:
   Thus the C program to implement RSA encryption technique had been implemented successfully
